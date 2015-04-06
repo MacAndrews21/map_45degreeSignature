@@ -1,5 +1,5 @@
-# map_45degreeSignature [workaround solution]
-creates a 45° signature for polygons [for map viewer which can't use raster formats (e.g. *.png) for this]
+## 45°-polygon-signature workaround solution
+creates a 45° signature for polygons [for map viewer with no support of polygon signatures (e.g. with raster formats like *.png)]
 
 1. get upper left and lower right corner coordinates of polygon (bounding box coordinates)  
 
