@@ -3,7 +3,7 @@ creates a 45° signature for polygons [for map viewer with no support of polygon
 
 1. get upper left and lower right corner coordinates of polygon (bounding box coordinates)  
 
-2. type in coordinates in python script  
+2. type in coordinates in the python script  
 
 3. open 45degreeStripes.csv in quantum GIS  
 
