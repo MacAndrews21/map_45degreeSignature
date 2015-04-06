@@ -1,0 +1,8 @@
+CASE WHEN  "Name" IS NULL THEN 0 ELSE
+     CASE WHEN "Name" = 1 THEN 1 ELSE
+        CASE WHEN "Name" = 2 THEN 2 ELSE
+            CASE WHEN "Name" = 3 THEN 3 
+            END
+        END
+     END
+END
